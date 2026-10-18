@@ -2,3 +2,5 @@ nombre: Osvaldo Santiago Palma Perez
 Edad:19
 Altura:1.70
 Habilidad: Comer
+vehiculo; tesla
+hobbie; comer
